@@ -1,0 +1,11 @@
+C:\Users\Roosebelt Hiciano\source\repos\Arbol de Decision 2\Arbol de Decision 2\bin\Debug\Arbol de Decision 2.exe.config
+C:\Users\Roosebelt Hiciano\source\repos\Arbol de Decision 2\Arbol de Decision 2\bin\Debug\Arbol de Decision 2.exe
+C:\Users\Roosebelt Hiciano\source\repos\Arbol de Decision 2\Arbol de Decision 2\bin\Debug\Arbol de Decision 2.pdb
+C:\Users\Roosebelt Hiciano\source\repos\Arbol de Decision 2\Arbol de Decision 2\obj\Debug\Arbol de Decision 2.csproj.AssemblyReference.cache
+C:\Users\Roosebelt Hiciano\source\repos\Arbol de Decision 2\Arbol de Decision 2\obj\Debug\Arbol de Decision 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roosebelt Hiciano\source\repos\Arbol de Decision 2\Arbol de Decision 2\obj\Debug\Arbol_de_Decision_2.Form1.resources
+C:\Users\Roosebelt Hiciano\source\repos\Arbol de Decision 2\Arbol de Decision 2\obj\Debug\Arbol_de_Decision_2.Properties.Resources.resources
+C:\Users\Roosebelt Hiciano\source\repos\Arbol de Decision 2\Arbol de Decision 2\obj\Debug\Arbol de Decision 2.csproj.GenerateResource.cache
+C:\Users\Roosebelt Hiciano\source\repos\Arbol de Decision 2\Arbol de Decision 2\obj\Debug\Arbol de Decision 2.csproj.CoreCompileInputs.cache
+C:\Users\Roosebelt Hiciano\source\repos\Arbol de Decision 2\Arbol de Decision 2\obj\Debug\Arbol de Decision 2.exe
+C:\Users\Roosebelt Hiciano\source\repos\Arbol de Decision 2\Arbol de Decision 2\obj\Debug\Arbol de Decision 2.pdb
